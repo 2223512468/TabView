@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TabView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string-array name="skill">
+        <item >Android开发</item>
+        <item >Eclipse</item>
+        <item >SQL Server</item>
+        <item >Android Studio</item>
+        <item >Oracle</item>
+        <item >Java</item>
+        <item >UI布局</item>
+        <item >Fragment</item>
+        <item >设备适配</item>
+        <item >分辨率适配</item>
+        <item >ActionBar</item>
+        <item >Genymotion</item>
+        <item >看书</item>
+        <item >听音乐</item>
+        <item >读博客</item>
+        <item >打游戏</item>
+        <item >为人友善</item>
+        <item >CSDN：shadow066</item>
+    </string-array>
+
+</resources>
